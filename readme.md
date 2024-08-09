@@ -2,7 +2,7 @@ Programming
 
 \- JavaScript Fundamentals
 
-\- Event Loop
+\- [Event Loop](https://www.youtube.com/watch?v=8zKuNo4ay8E)
 
 \- Callbacks
 
